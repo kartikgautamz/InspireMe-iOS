@@ -1,6 +1,5 @@
-
-
 # InspoQuotes
+<img width="420" alt="Screenshot 2024-09-17 at 10 18 39 PM" src="https://github.com/user-attachments/assets/2f55f232-47c5-4764-9711-7bdef4cfd5b2">
 
 
 ## What you will create
